@@ -1,0 +1,3 @@
+Sınav Güvenlik Sistemi projesini Attendify (Sınıf Yoklama Sistemi) projesine güncelleme olarak getirdiğimizden dolayı asıl proje dosyalarına aşağıdaki Attendify github linki üzerinden ulaşabilirsiniz.
+
+https://github.com/yousurff/attendify
